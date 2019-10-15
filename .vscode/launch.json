@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Bloc Library",
+            "program": "bloc_library/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "FrideOS Library",
+            "program": "frideos_library/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Mvc",
+            "program": "mvc/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Mvu",
+            "program": "mvu/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Provider",
+            "program": "provider/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Redux",
+            "program": "redux/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Scoped Model",
+            "program": "scoped_model/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Vanilla",
+            "program": "vanilla/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+    ]
+}
