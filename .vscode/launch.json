@@ -5,32 +5,32 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Vanilla",
+            "program": "vanilla/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Inherithed Widget",
+            "program": "inherited_widget/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Bloc Flutter (Not Working)",
+            "program": "bloc_flutter/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Simple Bloc Flutter (Not Working)",
+            "program": "simple_bloc_flutter/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
             "name": "Bloc Library",
             "program": "bloc_library/lib/main.dart",
-            "request": "launch",
-            "type": "dart"
-        },
-        {
-            "name": "FrideOS Library",
-            "program": "frideos_library/lib/main.dart",
-            "request": "launch",
-            "type": "dart"
-        },
-        {
-            "name": "Mvc",
-            "program": "mvc/lib/main.dart",
-            "request": "launch",
-            "type": "dart"
-        },
-        {
-            "name": "Mvu",
-            "program": "mvu/lib/main.dart",
-            "request": "launch",
-            "type": "dart"
-        },
-        {
-            "name": "Provider",
-            "program": "provider/lib/main.dart",
             "request": "launch",
             "type": "dart"
         },
@@ -41,14 +41,62 @@
             "type": "dart"
         },
         {
+            "name": "Built Redux",
+            "program": "built_redux/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
             "name": "Scoped Model",
             "program": "scoped_model/lib/main.dart",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "Vanilla",
-            "program": "vanilla/lib/main.dart",
+            "name": "Firestore Redux (Not Working)",
+            "program": "firestore_redux/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Mvu",
+            "program": "mvu/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ReduRx",
+            "program": "redurx/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Mvi Flutter (Not Working)",
+            "program": "mvi_flutter/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Mvc",
+            "program": "mvc/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "FrideOS Library",
+            "program": "frideos_library/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Provider",
+            "program": "provider/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "MobX",
+            "program": "mobx/lib/main.dart",
             "request": "launch",
             "type": "dart"
         },
